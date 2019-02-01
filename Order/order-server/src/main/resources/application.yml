@@ -1,0 +1,8 @@
+# Spring boot application
+spring:
+  application:
+    name: fescarSpringBootSample-order
+server:
+  port: 9093
+
+
